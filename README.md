@@ -49,7 +49,7 @@ The **GUI Library Management System** is a Python-based application that provide
 
 ### **1. Clone the Repository**  
 ```bash
-git clone https://github.com/your-repo/gui-library-management.git
+git clone (https://github.com/Ronald-William/Library-Managment-System-in-Python.git)
 ```  
 
 ### **2. Install Dependencies**  
